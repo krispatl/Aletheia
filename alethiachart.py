@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 from openai import OpenAI
 
 # === Initialize OpenAI Client ===
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="INSERT YOUR API KEY HERE")
 
 # === Config ===
 MODEL = "o3-mini"
