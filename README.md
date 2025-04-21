@@ -59,7 +59,7 @@ COMING SOON
 
 1. Run `aletheiachart.py` to initiate the recursive loop.
 2. All outputs are stored in `aletheai_self.json` and /aletheia_logs
-3. WARNING!! This is a high token use application. On the order of 10Million tokens per full run. 
+3. WARNING!! This is a high token use application. On the order of 10 Million tokens per full run. 
 
 ---
 
