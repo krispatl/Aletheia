@@ -87,7 +87,7 @@ aletheia/
 
 This repository is part of a larger body of research documented in:
 
-- **CHI 2025**: _Purposefully Induced Psychosis (PIP): Embracing Hallucination as Imagination in Large Language Models_
+- **CHI 2025**: _Purposefully Induced Psychosis (PIP): Embracing Hallucination as Imagination in Large Language Models_   https://arxiv.org/abs/2504.12012
 
 ---
 
