@@ -101,7 +101,7 @@ This repository is part of a larger body of research documented in:
 
 ## 🌀 Citation
 
-Please cite this work in research, art exhibitions, or derivative projects using the authors listed above and reference the CHI 2025 paper.
+Please cite this work in research, art exhibitions, or derivative projects using the authors listed above.
 
 ---
 
